@@ -52,7 +52,7 @@ ________
 
 #### ᴅᴇᴘʟᴏʏ ʜᴇʀᴏᴋᴜ 🏝
 
-<a href="https://dashboard.heroku.com/new?template=https://github.com/lbrahimu12/BUSTAR-ZONE_MD"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=blue&style=for-the-badge&logo=nike" width="220" height="38.45"/></a></p>
+<a href="https://dashboard.heroku.com/new?template=https://github.com/beezila22/HELA"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=blue&style=for-the-badge&logo=nike" width="220" height="38.45"/></a></p>
 
 ____________
 
